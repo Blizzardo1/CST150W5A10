@@ -54,6 +54,7 @@ namespace CST150W5A10
             elements.Clear();
         }
 
+
         // Corrected by Adonis S. Deliannis
         public Set union(Set rhs)
         {
